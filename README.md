@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LLMD Gateway Web Interface
+
+A modern web application built with Next.js and TypeScript that provides a chat interface for interacting with your LLMD (Language Model) Gateway.
+
+## Features
+
+- 🚀 **Modern UI**: Clean, responsive interface built with Next.js and Tailwind CSS
+- 💬 **Real-time Chat**: Interactive chat interface with message history
+- 🔄 **Model Selection**: Support for multiple language models (Claude 3.5 Sonnet, GPT-4o, GPT-4o Mini)
+- 🌙 **Dark Mode Support**: Automatic dark/light theme support
+- 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
+- 🔧 **TypeScript**: Full type safety throughout the application
+
+## Prerequisites
+
+- Node.js 18+ and npm
+- LLMD Gateway running on port 8000 (configurable)
 
 ## Getting Started
 
